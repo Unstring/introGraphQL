@@ -1,6 +1,405 @@
 {
-  "users": [
-    { "id": 1, "name": "", "email": "" },
-    { "id": 2, "name": "amit", "email": "am@gm.cm" }
-  ]
-}
+    "users": [
+      {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "age": 28,
+        "city": "Mumbai",
+        "occupation": "Software Engineer"
+      },
+      {
+        "id": 2,
+        "name": "Priya Patel",
+        "email": "priya@gmail.com",
+        "age": 32,
+        "city": "Delhi",
+        "occupation": "Doctor"
+      },
+      {
+        "id": 3,
+        "name": "Aryan Khanna",
+        "email": "aryan@gmail.com",
+        "age": 22,
+        "city": "Bangalore",
+        "occupation": "Student"
+      },
+      {
+        "id": 4,
+        "name": "Sneha Desai",
+        "email": "sneha@gmail.com",
+        "age": 45,
+        "city": "Kolkata",
+        "occupation": "Homemaker"
+      },
+      {
+        "id": 5,
+        "name": "Rajiv Gupta",
+        "email": "rajiv@gmail.com",
+        "age": 38,
+        "city": "Chennai",
+        "occupation": "Marketing Manager"
+      },
+      {
+        "id": 6,
+        "name": "Neha Kapoor",
+        "email": "neha@gmail.com",
+        "age": 29,
+        "city": "Pune",
+        "occupation": "Graphic Designer"
+      },
+      {
+        "id": 7,
+        "name": "Arjun Singh",
+        "email": "arjun@gmail.com",
+        "age": 26,
+        "city": "Hyderabad",
+        "occupation": "Sales Executive"
+      },
+      {
+        "id": 8,
+        "name": "Ananya Verma",
+        "email": "ananya@gmail.com",
+        "age": 31,
+        "city": "Jaipur",
+        "occupation": "Architect"
+      },
+      {
+        "id": 9,
+        "name": "Karan Mehta",
+        "email": "karan@gmail.com",
+        "age": 35,
+        "city": "Ahmedabad",
+        "occupation": "Business Owner"
+      },
+      {
+        "id": 10,
+        "name": "Nisha Reddy",
+        "email": "nisha@gmail.com",
+        "age": 27,
+        "city": "Kochi",
+        "occupation": "Photographer"
+      },
+      {
+        "id": 11,
+        "name": "Sanjay Yadav",
+        "email": "sanjay@gmail.com",
+        "age": 42,
+        "city": "Lucknow",
+        "occupation": "Government Employee"
+      },
+      {
+        "id": 12,
+        "name": "Pooja Bhatia",
+        "email": "pooja@gmail.com",
+        "age": 24,
+        "city": "Indore",
+        "occupation": "Content Writer"
+      },
+      {
+        "id": 13,
+        "name": "Harish Joshi",
+        "email": "harish@gmail.com",
+        "age": 30,
+        "city": "Chandigarh",
+        "occupation": "Fitness Trainer"
+      },
+      {
+        "id": 14,
+        "name": "Meera Choudhary",
+        "email": "meera@gmail.com",
+        "age": 28,
+        "city": "Bhopal",
+        "occupation": "Teacher"
+      },
+      {
+        "id": 15,
+        "name": "Rohit Malhotra",
+        "email": "rohit@gmail.com",
+        "age": 33,
+        "city": "Gurugram",
+        "occupation": "Financial Analyst"
+      },
+      {
+        "id": 16,
+        "name": "Anushka Singhania",
+        "email": "anushka@gmail.com",
+        "age": 29,
+        "city": "Noida",
+        "occupation": "Event Planner"
+      },
+      {
+        "id": 17,
+        "name": "Raghav Srinivasan",
+        "email": "raghav@gmail.com",
+        "age": 25,
+        "city": "Coimbatore",
+        "occupation": "Data Scientist"
+      },
+      {
+        "id": 18,
+        "name": "Divya Iyer",
+        "email": "divya@gmail.com",
+        "age": 23,
+        "city": "Mangalore",
+        "occupation": "Fashion Designer"
+      },
+      {
+        "id": 19,
+        "name": "Sameer Agarwal",
+        "email": "sameer@gmail.com",
+        "age": 40,
+        "city": "Nagpur",
+        "occupation": "Chartered Accountant"
+      },
+      {
+        "id": 20,
+        "name": "Kavita Rajan",
+        "email": "kavita@gmail.com",
+        "age": 36,
+        "city": "Visakhapatnam",
+        "occupation": "HR Manager"
+      },
+      {
+        "id": 21,
+        "name": "Rajesh Sharma",
+        "email": "rajesh@gmail.com",
+        "age": 47,
+        "city": "Surat",
+        "occupation": "Retail Store Owner"
+      },
+      {
+        "id": 22,
+        "name": "Ayesha Khan",
+        "email": "ayesha@gmail.com",
+        "age": 26,
+        "city": "Bhubaneswar",
+        "occupation": "Social Media Manager"
+      },
+      {
+        "id": 23,
+        "name": "Vikram Mallick",
+        "email": "vikram@gmail.com",
+        "age": 31,
+        "city": "Ludhiana",
+        "occupation": "Chef"
+      },
+      {
+        "id": 24,
+        "name": "Shreya Dubey",
+        "email": "shreya@gmail.com",
+        "age": 29,
+        "city": "Varanasi",
+        "occupation": "Writer"
+      },
+      {
+        "id": 25,
+        "name": "Prakash Menon",
+        "email": "prakash@gmail.com",
+        "age": 34,
+        "city": "Thiruvananthapuram",
+        "occupation": "Civil Engineer"
+      },
+      {
+        "id": 26,
+        "name": "Anjali Kapoor",
+        "email": "anjali@gmail.com",
+        "age": 27,
+        "city": "Amritsar",
+        "occupation": "Pharmacist"
+      },
+      {
+        "id": 27,
+        "name": "Arnav Shah",
+        "email": "arnav@gmail.com",
+        "age": 22,
+        "city": "Guwahati",
+        "occupation": "Student"
+      },
+      {
+        "id": 28,
+        "name": "Sonali Chopra",
+        "email": "sonali@gmail.com",
+        "age": 33,
+        "city": "Patna",
+        "occupation": "Lawyer"
+      },
+      {
+        "id": 29,
+        "name": "Vivek Reddy",
+        "email": "vivek@gmail.com",
+        "age": 39,
+        "city": "Raipur",
+        "occupation": "Entrepreneur"
+      },
+      {
+        "id": 30,
+        "name": "Aishwarya Nair",
+        "email": "aishwarya@gmail.com",
+        "age": 28,
+        "city": "Dehradun",
+        "occupation": "Artist"
+      },
+      {
+        "id": 31,
+        "name": "Aditya Rao",
+        "email": "aditya@gmail.com",
+        "age": 25,
+        "city": "Kanpur",
+        "occupation": "Software Developer"
+      },
+      {
+        "id": 32,
+        "name": "Anamika Patel",
+        "email": "anamika@gmail.com",
+        "age": 30,
+        "city": "Jabalpur",
+        "occupation": "Interior Designer"
+      },
+      {
+        "id": 33,
+        "name": "Karthik Iyer",
+        "email": "karthik@gmail.com",
+        "age": 28,
+        "city": "Cochin",
+        "occupation": "Travel Blogger"
+      },
+      {
+        "id": 34,
+        "name": "Natasha Menon",
+        "email": "natasha@gmail.com",
+        "age": 29,
+        "city": "Shimla",
+        "occupation": "Mountaineer"
+      },
+      {
+        "id": 35,
+        "name": "Deepak Chauhan",
+        "email": "deepak@gmail.com",
+        "age": 36,
+        "city": "Jodhpur",
+        "occupation": "Tour Guide"
+      },
+      {
+        "id": 36,
+        "name": "Saumya Singh",
+        "email": "saumya@gmail.com",
+        "age": 27,
+        "city": "Agra",
+        "occupation": "Archaeologist"
+      },
+      {
+        "id": 37,
+        "name": "Arjun Mehra",
+        "email": "arjunm@gmail.com",
+        "age": 32,
+        "city": "Udaipur",
+        "occupation": "Hotel Manager"
+      },
+      {
+        "id": 38,
+        "name": "Meenakshi Sengupta",
+        "email": "meenakshi@gmail.com",
+        "age": 29,
+        "city": "Kanpur",
+        "occupation": "Researcher"
+      },
+      {
+        "id": 39,
+        "name": "Ajay Verma",
+        "email": "ajay@gmail.com",
+        "age": 45,
+        "city": "Ranchi",
+        "occupation": "Professor"
+      },
+      {
+        "id": 40,
+        "name": "Jaya Rathi",
+        "email": "jaya@gmail.com",
+        "age": 31,
+        "city": "Mysore",
+        "occupation": "Yoga Instructor"
+      },
+      {
+        "id": 41,
+        "name": "Siddharth Kapoor",
+        "email": "siddharth@gmail.com",
+        "age": 28,
+        "city": "Vadodara",
+        "occupation": "Web Designer"
+      },
+      {
+        "id": 42,
+        "name": "Leela Naidu",
+        "email": "leela@gmail.com",
+        "age": 50,
+        "city": "Gwalior",
+        "occupation": "Librarian"
+      },
+      {
+        "id": 43,
+        "name": "Rakesh Khurana",
+        "email": "rakesh@gmail.com",
+        "age": 39,
+        "city": "Jamshedpur",
+        "occupation": "Plant Manager"
+      },
+      {
+        "id": 44,
+        "name": "Ananya Singh",
+        "email": "ananya@gmail.com",
+        "age": 24,
+        "city": "Ajmer",
+        "occupation": "Software Engineer"
+      },
+      {
+        "id": 45,
+        "name": "Nikhil Sharma",
+        "email": "nikhil@gmail.com",
+        "age": 26,
+        "city": "Raipur",
+        "occupation": "Journalist"
+      },
+      {
+        "id": 46,
+        "name": "Preeti Das",
+        "email": "preeti@gmail.com",
+        "age": 29,
+        "city": "Cuttack",
+        "occupation": "Dentist"
+      },
+      {
+        "id": 47,
+        "name": "Alok Gupta",
+        "email": "alok@gmail.com",
+        "age": 35,
+        "city": "Faridabad",
+        "occupation": "Real Estate Agent"
+      },
+      {
+        "id": 48,
+        "name": "Shalini Rajan",
+        "email": "shalini@gmail.com",
+        "age": 31,
+        "city": "Udupi",
+        "occupation": "Nutritionist"
+      },
+      {
+        "id": 49,
+        "name": "Arvind Kumar",
+        "email": "arvind@gmail.com",
+        "age": 42,
+        "city": "Nainital",
+        "occupation": "Tour Operator"
+      },
+      {
+        "id": 50,
+        "name": "Divya Singhania",
+        "email": "divya@gmail.com",
+        "age": 27,
+        "city": "Trichy",
+        "occupation": "Social Worker"
+      }
+    ]
+  }
+  
